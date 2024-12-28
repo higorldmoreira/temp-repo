@@ -1,6 +1,6 @@
 
 # Criar chaves ssh
-ssh-keygen -t rsa -f "/c/Users/seu-usuario/.ssh/nome-chave" -C 'seu-email@email.com'
+ssh-keygen -t rsa -f "/c/Users/seu-usuario/.ssh/nome-chave" -C 'higorldmoreira@gmail.com'
 
 # Quando fechar o terminal preciso executar isso
 eval "$(ssh-agent -s)"
